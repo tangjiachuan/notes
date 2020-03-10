@@ -1,0 +1,18 @@
+openLog:                yes      no
+
+openSocket4005:         yes      no
+
+
+AID:                     FF FF FF FF
+
+setSocket4005IP:        127.0.0.1:4005
+
+
+openSocket5009:         yes      no
+
+
+
+
+setSocket5009IP:        120.76.223.28:5009
+
+
